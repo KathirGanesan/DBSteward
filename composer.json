@@ -34,7 +34,6 @@
     "php": ">=5.5.0",
     "ext-dom": "*",
     "ext-pcre": "*",
-    "ext-pgsql": "*",
     "ext-simplexml": "*",
     "ext-spl": "*",
     "monolog/monolog": "1.16.0",
